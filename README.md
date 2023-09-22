@@ -47,7 +47,7 @@ d. 258040696
 ![First](Img/5.png)
 
 ### 2. Lalu buka menu follow dan tcp stream
-![First](Img/6.png)
+![First](Img/pp.png)
 
 ### 3. Akan ada hasil output seperti ini
 
@@ -125,7 +125,7 @@ c. Dari semua alamat IP yang tercapture, IP berapakah yang merupakan public IP?
 ### 3. Untuk itu, kita harus mencari kata sandi yang tersembunyi di dalam wireshark
 
 ### 4. Mencari password dari zip file
-![First](image.png)
+![First](Img/image.png)
 
 ### 5. Mendecode melalui base64
 ![First](Img/image-1.png)
